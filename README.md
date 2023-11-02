@@ -2,8 +2,8 @@
 一个基于Java和Python开发的Android音乐播放器
 
 效果图展示
-<div align="center"> <img src="https://github.com/DavidWisdom/MusicPlayerDemo/assets/88563609/fdd0130b-d6e3-4947-acf7-3e7a106f6a24" style="margin-right: 10px;" width = 220 height = 480 />
-<img src="https://github.com/DavidWisdom/MusicPlayerDemo/assets/88563609/66e418bd-b624-400b-ac40-c91f5a76edd3" style="margin-left: 10px;" width = 220 height = 480 /> </div>
+<div align="center"> <img src="https://github.com/DavidWisdom/MusicPlayerDemo/assets/88563609/fdd0130b-d6e3-4947-acf7-3e7a106f6a24" width = 220 height = 480 />
+<img src="https://github.com/DavidWisdom/MusicPlayerDemo/assets/88563609/66e418bd-b624-400b-ac40-c91f5a76edd3"  width = 220 height = 480 /> </div>
 
 
 
